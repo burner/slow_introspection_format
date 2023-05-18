@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"burner"
+	],
+	"copyright": "Copyright © 2023, burner",
+	"description": "A minimal D application.",
+	"dflags-ldc": ["-d", "-ftime-trace", "-ftime-trace-file=$PACKAGE_DIR/trace.json"],
+	"license": "proprietary",
+	"name": "slow_introspection_format"
+}
